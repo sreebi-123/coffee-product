@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/activity</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/issues</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/pulls</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/actions</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/security</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/blob/main/index.html</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/blob/main/product.css</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/releases</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/search?q=repo%3Asreebi-123%2Fcoffee-product++language%3AHTML</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/search?q=repo%3Asreebi-123%2Fcoffee-product++language%3ACSS</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/labels</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/milestones</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/actions/caches</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/actions/runs/20589727712</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/actions/runs/20589667131</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/milestones?state=closed</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/commit/88a3df546e0f19e0ac10f60e639ec57af20cf276</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/actions/runs/20589727712/usage</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/actions/runs/20589727712/job/59132641702</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/actions/runs/20589727712/job/59132657667</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/actions/runs/20589727712/job/59132657668</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/commit/40297e5b984889e75b1d92cf7df593d5ab5dd069</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/actions/runs/20589667131/usage</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/actions/runs/20589667131/job/59132502199</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/actions/runs/20589667131/job/59132520015</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sreebi-123/coffee-product/actions/runs/20589667131/job/59132520007</loc>
+  <lastmod>2025-12-30T05:35:47+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
